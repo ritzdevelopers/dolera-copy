@@ -40,7 +40,7 @@ body {
   width: 100%;
   top: 0;
   z-index: 99;
-  background-color: #c08831;
+  background-color: #43BA90;
 }
 
 .custom_navbar {
@@ -175,7 +175,7 @@ body {
   margin-bottom: 5px;
 }
 .custom_slider .right_top_col .form_box {
-  background-color: #c08831;
+  background-color: #43BA90;
   padding: 17px;
   width: 100%;
   margin: 0 auto;
@@ -219,7 +219,7 @@ body {
 }
 .pricestrip_container {
   padding: 0;
-  background-color: #c08831;
+  background-color: #43BA90;
   padding-top: 0;
   padding-bottom: 0;
   color: #fff;
@@ -298,7 +298,7 @@ body {
 }
 .overview_container .btn-dowonload {
   color: #fff;
-  background-color: #c08831;
+  background-color: #43BA90;
   padding: 10px 20px;
   border-radius: 0;
   font-size: 16px;
@@ -306,7 +306,7 @@ body {
 }
 .overview_container h2 {
   font-size: 35px;
-  color: #c08831;
+  color: #43BA90;
   letter-spacing: 0.5px;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -321,13 +321,13 @@ body {
   right: -110%;
   width: 100%;
   height: 4%;
-  background-color: #c08831;
+  background-color: #43BA90;
 }
 
 .highlights_container {
   padding: 0;
   position: relative;
-  background: url(../images/highlights-pattern.png) repeat-y #c08831;
+  background: url(../images/highlights-pattern.png) repeat-y #43BA90;
   overflow: hidden;
   background-image: url(https://residentialplotsdholera.com/images/row-bgimage-7.png);
   background-repeat: no-repeat;
@@ -391,7 +391,7 @@ body {
   letter-spacing: 0.5px;
   text-transform: uppercase;
   margin-bottom: 30px;
-  color: #c08831;
+  color: #43BA90;
   font-weight: 900;
   position: relative;
   display: inline-block;
@@ -403,10 +403,10 @@ body {
   right: -110%;
   width: 100%;
   height: 5%;
-  background-color: #c08831;
+  background-color: #43BA90;
 }
 .pricelist_container .price_list_box {
-  background-color: #c08831;
+  background-color: #43BA90;
   color: #fff;
   padding: 35px;
   position: relative;
@@ -434,7 +434,7 @@ body {
 }
 .pricelist_container .pricelist_heading h4 {
   text-align: center;
-  background-color: #c08831;
+  background-color: #43BA90;
   margin-bottom: 23px;
   display: grid;
   align-items: center;
@@ -452,7 +452,7 @@ body {
   margin-left: -15px;
   border-width: 20px;
   border-style: solid;
-  border-color: #c08831 transparent transparent;
+  border-color: #43BA90 transparent transparent;
   z-index: 9;
 }
 .pricelist_container .price_list_box h4::after {
@@ -499,7 +499,7 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   position: relative;
-  background: url(../images/highlights-pattern.png) repeat-y #c08831;
+  background: url(../images/highlights-pattern.png) repeat-y #43BA90;
   overflow: hidden;
   background-image: url(../images/row-bgimage-7.png);
   background-repeat: no-repeat;
@@ -609,7 +609,7 @@ body {
   text-transform: uppercase;
   margin-bottom: 60px;
   position: relative;
-  color: #c08831;
+  color: #43BA90;
   font-weight: 900;
   display: inline-block;
 }
@@ -620,7 +620,7 @@ body {
   right: -55%;
   width: 50%;
   height: 5%;
-  background-color: #c08831;
+  background-color: #43BA90;
 }
 .floor_contianer .container {
   max-width: 75%;
@@ -633,7 +633,7 @@ body {
   border: 1px solid #000;
 }
 .floor_contianer h5 {
-  background-color: #c08831;
+  background-color: #43BA90;
   color: #fff;
   padding: 15px;
   text-align: center;
@@ -677,7 +677,7 @@ body {
   padding: 15px;
   margin-top: 25px;
   color: #fff;
-  background-color: #c08831;
+  background-color: #43BA90;
   font-size: 18px;
 }
 
@@ -756,7 +756,7 @@ body {
 .location_advantage_container {
   padding: 0;
   position: relative;
-  background: url(../images/highlights-pattern.png) repeat-y #c08831;
+  background: url(../images/highlights-pattern.png) repeat-y #43BA90;
   overflow: hidden;
   background-image: url(../images/row-bgimage-7.png);
   background-repeat: no-repeat;
@@ -808,7 +808,7 @@ body {
   padding-bottom: 34px;
 }
 .about_developer_container {
-  background: url(../images/highlights-pattern.png) repeat-y #c08831;
+  background: url(../images/highlights-pattern.png) repeat-y #43BA90;
   background-repeat: no-repeat;
   background-position: bottom left;
   overflow: hidden;
@@ -1050,7 +1050,7 @@ body {
 }
 .mobile-section-1 a.btn.btn-success.btn-block {
   font-size: 13px;
-  background-color: #c08831;
+  background-color: #43BA90;
   width: 100%;
   border: none;
   border-radius: 0;
@@ -1188,7 +1188,7 @@ a.btn.btn-success.btn-block.middle-button {
 }
 .modal-body .form_box_2 {
   padding: 15px;
-  background-color: #c08831;
+  background-color: #43BA90;
 }
 .modal-body button.close {
   position: absolute;
@@ -1951,13 +1951,13 @@ a.btn.btn-success.btn-block.middle-button {
   }
   .gallery_container h3 {
     font-size: 26px;
-    color: #c08831;
+    color: #43BA90;
   }
   .gallery_container h3::after {
     right: -90%;
     width: 75%;
     height: 4%;
-    background-color: #c08831;
+    background-color: #43BA90;
   }
 
   .about_developer_container .footer_form {
